@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 namespace LR6
 {
     class ClassForMKR
-    {//Changes in new branch
+    {//Changes in new branch/saf--//New changes
+     //changes}
     }
 }
