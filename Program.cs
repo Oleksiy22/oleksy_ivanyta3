@@ -182,7 +182,7 @@ namespace LR6
         public override void Print()
         {
             Console.WriteLine(name);
-            Console.WriteLine("Вміщає:");
+            Console.WriteLine("Вміщає1:");
             for (int i = 0; i < components.Count; i++)
             {
                 components[i].Print();
